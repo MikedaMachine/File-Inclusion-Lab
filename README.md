@@ -8,4 +8,5 @@ In this lab, we will learn to create an vulnerable web application through XAMPP
 This lab gives readers a first impression of Local file inclusion(LFI) and remote file inclusion(RFI). RFI/LFI attacks enable hackers to execute malicious code and steal data through the manipulation of a company’s web server.
 
 **Lab Objective part2:**
+
 Part 2 will focus on preventing LFI & RFI, securing the web application.
